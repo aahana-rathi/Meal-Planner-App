@@ -4,6 +4,8 @@ Created on Sat Jul 26 14:18:55 2025
 
 @author: aahan
 """
+import os
+os.system("pip list")
 
 import streamlit as st # Import Streamlit for creating web applications
 import sqlite3 # Import SQLite for database management
